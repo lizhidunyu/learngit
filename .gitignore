@@ -15,3 +15,7 @@ build
 # My configurations:
 db.ini
 deploy_key_rsa
+
+
+!.gitignore
+!Bpp.class
